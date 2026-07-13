@@ -1,0 +1,7 @@
+{
+  "name": "Flutter",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/cirruslabs/flutter:2": {}
+  }
+}
